@@ -1,0 +1,15 @@
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\obj\Debug\net7.0\Chapter 30 IEnumerable.csproj.AssemblyReference.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\obj\Debug\net7.0\Chapter 30 IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\obj\Debug\net7.0\Chapter 30 IEnumerable.AssemblyInfoInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\obj\Debug\net7.0\Chapter 30 IEnumerable.AssemblyInfo.cs
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\obj\Debug\net7.0\Chapter 30 IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\bin\Debug\net7.0\Chapter 30 IEnumerable.exe
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\bin\Debug\net7.0\Chapter 30 IEnumerable.deps.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\bin\Debug\net7.0\Chapter 30 IEnumerable.runtimeconfig.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\bin\Debug\net7.0\Chapter 30 IEnumerable.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\bin\Debug\net7.0\Chapter 30 IEnumerable.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\obj\Debug\net7.0\Chapter 30 IEnumerable.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\obj\Debug\net7.0\refint\Chapter 30 IEnumerable.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\obj\Debug\net7.0\Chapter 30 IEnumerable.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\obj\Debug\net7.0\Chapter 30 IEnumerable.genruntimeconfig.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 30 IEnumerable\obj\Debug\net7.0\ref\Chapter 30 IEnumerable.dll

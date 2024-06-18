@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Chapter 21 O(n) Algorithm for circular/1.0.0": {
+        "runtime": {
+          "Chapter 21 O(n) Algorithm for circular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter 21 O(n) Algorithm for circular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\bin\Debug\net7.0\Chapter 14 String Manipulation.exe
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\bin\Debug\net7.0\Chapter 14 String Manipulation.deps.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\bin\Debug\net7.0\Chapter 14 String Manipulation.runtimeconfig.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\bin\Debug\net7.0\Chapter 14 String Manipulation.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\bin\Debug\net7.0\Chapter 14 String Manipulation.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\obj\Debug\net7.0\Chapter 14 String Manipulation.csproj.AssemblyReference.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\obj\Debug\net7.0\Chapter 14 String Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\obj\Debug\net7.0\Chapter 14 String Manipulation.AssemblyInfoInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\obj\Debug\net7.0\Chapter 14 String Manipulation.AssemblyInfo.cs
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\obj\Debug\net7.0\Chapter 14 String Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\obj\Debug\net7.0\Chapter 14 String Manipulation.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\obj\Debug\net7.0\refint\Chapter 14 String Manipulation.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\obj\Debug\net7.0\Chapter 14 String Manipulation.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\obj\Debug\net7.0\Chapter 14 String Manipulation.genruntimeconfig.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 14 String Manipulation\obj\Debug\net7.0\ref\Chapter 14 String Manipulation.dll

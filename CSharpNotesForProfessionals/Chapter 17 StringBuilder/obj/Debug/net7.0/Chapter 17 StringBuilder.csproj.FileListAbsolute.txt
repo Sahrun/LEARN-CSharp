@@ -1,0 +1,15 @@
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\bin\Debug\net7.0\Chapter 17 StringBuilder.exe
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\bin\Debug\net7.0\Chapter 17 StringBuilder.deps.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\bin\Debug\net7.0\Chapter 17 StringBuilder.runtimeconfig.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\bin\Debug\net7.0\Chapter 17 StringBuilder.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\bin\Debug\net7.0\Chapter 17 StringBuilder.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\obj\Debug\net7.0\Chapter 17 StringBuilder.csproj.AssemblyReference.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\obj\Debug\net7.0\Chapter 17 StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\obj\Debug\net7.0\Chapter 17 StringBuilder.AssemblyInfoInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\obj\Debug\net7.0\Chapter 17 StringBuilder.AssemblyInfo.cs
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\obj\Debug\net7.0\Chapter 17 StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\obj\Debug\net7.0\Chapter 17 StringBuilder.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\obj\Debug\net7.0\refint\Chapter 17 StringBuilder.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\obj\Debug\net7.0\Chapter 17 StringBuilder.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\obj\Debug\net7.0\Chapter 17 StringBuilder.genruntimeconfig.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 17 StringBuilder\obj\Debug\net7.0\ref\Chapter 17 StringBuilder.dll

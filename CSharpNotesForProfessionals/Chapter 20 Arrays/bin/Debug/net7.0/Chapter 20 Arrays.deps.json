@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Chapter 20 Arrays/1.0.0": {
+        "runtime": {
+          "Chapter 20 Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter 20 Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

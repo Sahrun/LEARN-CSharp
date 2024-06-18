@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Chapter 16 String Escape Sequences/1.0.0": {
+        "runtime": {
+          "Chapter 16 String Escape Sequences.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter 16 String Escape Sequences/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

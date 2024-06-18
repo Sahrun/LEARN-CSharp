@@ -1,0 +1,15 @@
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\bin\Debug\net7.0\Chapter 29 Iterators.exe
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\bin\Debug\net7.0\Chapter 29 Iterators.deps.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\bin\Debug\net7.0\Chapter 29 Iterators.runtimeconfig.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\bin\Debug\net7.0\Chapter 29 Iterators.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\bin\Debug\net7.0\Chapter 29 Iterators.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\obj\Debug\net7.0\Chapter 29 Iterators.csproj.AssemblyReference.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\obj\Debug\net7.0\Chapter 29 Iterators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\obj\Debug\net7.0\Chapter 29 Iterators.AssemblyInfoInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\obj\Debug\net7.0\Chapter 29 Iterators.AssemblyInfo.cs
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\obj\Debug\net7.0\Chapter 29 Iterators.csproj.CoreCompileInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\obj\Debug\net7.0\Chapter 29 Iterators.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\obj\Debug\net7.0\refint\Chapter 29 Iterators.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\obj\Debug\net7.0\Chapter 29 Iterators.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\obj\Debug\net7.0\Chapter 29 Iterators.genruntimeconfig.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 29 Iterators\obj\Debug\net7.0\ref\Chapter 29 Iterators.dll

@@ -1,0 +1,15 @@
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\bin\Debug\net7.0\Chapter 24 Guid.exe
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\bin\Debug\net7.0\Chapter 24 Guid.deps.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\bin\Debug\net7.0\Chapter 24 Guid.runtimeconfig.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\bin\Debug\net7.0\Chapter 24 Guid.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\bin\Debug\net7.0\Chapter 24 Guid.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\obj\Debug\net7.0\Chapter 24 Guid.csproj.AssemblyReference.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\obj\Debug\net7.0\Chapter 24 Guid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\obj\Debug\net7.0\Chapter 24 Guid.AssemblyInfoInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\obj\Debug\net7.0\Chapter 24 Guid.AssemblyInfo.cs
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\obj\Debug\net7.0\Chapter 24 Guid.csproj.CoreCompileInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\obj\Debug\net7.0\Chapter 24 Guid.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\obj\Debug\net7.0\refint\Chapter 24 Guid.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\obj\Debug\net7.0\Chapter 24 Guid.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\obj\Debug\net7.0\Chapter 24 Guid.genruntimeconfig.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 24 Guid\obj\Debug\net7.0\ref\Chapter 24 Guid.dll

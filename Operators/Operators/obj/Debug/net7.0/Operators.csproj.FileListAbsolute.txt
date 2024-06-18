@@ -1,0 +1,17 @@
+C:\Users\0908\Documents\LEARN\Operators\Operators\bin\Debug\net7.0\Operators.exe
+C:\Users\0908\Documents\LEARN\Operators\Operators\bin\Debug\net7.0\Operators.deps.json
+C:\Users\0908\Documents\LEARN\Operators\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+C:\Users\0908\Documents\LEARN\Operators\Operators\bin\Debug\net7.0\Operators.dll
+C:\Users\0908\Documents\LEARN\Operators\Operators\bin\Debug\net7.0\Operators.pdb
+C:\Users\0908\Documents\LEARN\Operators\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+C:\Users\0908\Documents\LEARN\Operators\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0908\Documents\LEARN\Operators\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+C:\Users\0908\Documents\LEARN\Operators\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+C:\Users\0908\Documents\LEARN\Operators\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\0908\Documents\LEARN\Operators\Operators\obj\Debug\net7.0\Operators.dll
+C:\Users\0908\Documents\LEARN\Operators\Operators\obj\Debug\net7.0\refint\Operators.dll
+C:\Users\0908\Documents\LEARN\Operators\Operators\obj\Debug\net7.0\Operators.pdb
+C:\Users\0908\Documents\LEARN\Operators\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+C:\Users\0908\Documents\LEARN\Operators\Operators\obj\Debug\net7.0\ref\Operators.dll
+C:\Users\0908\Documents\LEARN\Operators\Operators\bin\Debug\net7.0\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\0908\Documents\LEARN\Operators\Operators\obj\Debug\net7.0\Operators.csproj.CopyComplete

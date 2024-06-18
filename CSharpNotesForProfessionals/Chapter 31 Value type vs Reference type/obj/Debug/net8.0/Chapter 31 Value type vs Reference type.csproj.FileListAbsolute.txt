@@ -1,0 +1,14 @@
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\Chapter 31 Value type vs Reference type.exe
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\Chapter 31 Value type vs Reference type.deps.json
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\Chapter 31 Value type vs Reference type.runtimeconfig.json
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\Chapter 31 Value type vs Reference type.dll
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\Chapter 31 Value type vs Reference type.pdb
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\Chapter 31 Value type vs Reference type.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\Chapter 31 Value type vs Reference type.AssemblyInfoInputs.cache
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\Chapter 31 Value type vs Reference type.AssemblyInfo.cs
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\Chapter 31 Value type vs Reference type.csproj.CoreCompileInputs.cache
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\Chapter 31 Value type vs Reference type.dll
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\refint\Chapter 31 Value type vs Reference type.dll
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\Chapter 31 Value type vs Reference type.pdb
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\Chapter 31 Value type vs Reference type.genruntimeconfig.cache
+D:\LEARN\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\ref\Chapter 31 Value type vs Reference type.dll

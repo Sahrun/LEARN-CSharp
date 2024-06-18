@@ -1,0 +1,15 @@
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\bin\Debug\net7.0\Chapter 13 String Concatenate.exe
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\bin\Debug\net7.0\Chapter 13 String Concatenate.deps.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\bin\Debug\net7.0\Chapter 13 String Concatenate.runtimeconfig.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\bin\Debug\net7.0\Chapter 13 String Concatenate.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\bin\Debug\net7.0\Chapter 13 String Concatenate.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\obj\Debug\net7.0\Chapter 13 String Concatenate.csproj.AssemblyReference.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\obj\Debug\net7.0\Chapter 13 String Concatenate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\obj\Debug\net7.0\Chapter 13 String Concatenate.AssemblyInfoInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\obj\Debug\net7.0\Chapter 13 String Concatenate.AssemblyInfo.cs
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\obj\Debug\net7.0\Chapter 13 String Concatenate.csproj.CoreCompileInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\obj\Debug\net7.0\Chapter 13 String Concatenate.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\obj\Debug\net7.0\refint\Chapter 13 String Concatenate.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\obj\Debug\net7.0\Chapter 13 String Concatenate.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\obj\Debug\net7.0\Chapter 13 String Concatenate.genruntimeconfig.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 13 String Concatenate\obj\Debug\net7.0\ref\Chapter 13 String Concatenate.dll

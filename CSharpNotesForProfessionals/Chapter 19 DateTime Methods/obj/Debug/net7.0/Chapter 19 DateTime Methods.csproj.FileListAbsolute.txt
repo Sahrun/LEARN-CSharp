@@ -1,0 +1,15 @@
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\bin\Debug\net7.0\Chapter 19 DateTime Methods.exe
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\bin\Debug\net7.0\Chapter 19 DateTime Methods.deps.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\bin\Debug\net7.0\Chapter 19 DateTime Methods.runtimeconfig.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\bin\Debug\net7.0\Chapter 19 DateTime Methods.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\bin\Debug\net7.0\Chapter 19 DateTime Methods.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\obj\Debug\net7.0\Chapter 19 DateTime Methods.csproj.AssemblyReference.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\obj\Debug\net7.0\Chapter 19 DateTime Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\obj\Debug\net7.0\Chapter 19 DateTime Methods.AssemblyInfoInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\obj\Debug\net7.0\Chapter 19 DateTime Methods.AssemblyInfo.cs
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\obj\Debug\net7.0\Chapter 19 DateTime Methods.csproj.CoreCompileInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\obj\Debug\net7.0\Chapter 19 DateTime Methods.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\obj\Debug\net7.0\refint\Chapter 19 DateTime Methods.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\obj\Debug\net7.0\Chapter 19 DateTime Methods.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\obj\Debug\net7.0\Chapter 19 DateTime Methods.genruntimeconfig.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 19 DateTime Methods\obj\Debug\net7.0\ref\Chapter 19 DateTime Methods.dll

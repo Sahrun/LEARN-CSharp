@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "17zKiDNhy8Qj1Ebjeo0AduYiOuXxnH5HrsnK8p4X5RAkd+DEbmaBhnh8Bxfvv7D5hXIm02vv1XZf55m5RRAHEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\0908\\Documents\\LEARN\\Operators\\Operators\\Operators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\0908\\.nuget\\packages\\microsoft.visualstudio.unittesting\\11.0.50727.1\\microsoft.visualstudio.unittesting.11.0.50727.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.VisualStudio.UnitTesting 11.0.50727.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.VisualStudio.UnitTesting",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

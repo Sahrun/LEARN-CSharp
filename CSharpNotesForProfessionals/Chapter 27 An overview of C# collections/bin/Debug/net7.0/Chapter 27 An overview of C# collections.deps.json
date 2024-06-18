@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Chapter 27 An overview of C# collections/1.0.0": {
+        "runtime": {
+          "Chapter 27 An overview of C# collections.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter 27 An overview of C# collections/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

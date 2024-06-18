@@ -1,0 +1,15 @@
+C:\Users\0908\Documents\LEARN\Section12\Section12\bin\Debug\net7.0\Section12.exe
+C:\Users\0908\Documents\LEARN\Section12\Section12\bin\Debug\net7.0\Section12.deps.json
+C:\Users\0908\Documents\LEARN\Section12\Section12\bin\Debug\net7.0\Section12.runtimeconfig.json
+C:\Users\0908\Documents\LEARN\Section12\Section12\bin\Debug\net7.0\Section12.dll
+C:\Users\0908\Documents\LEARN\Section12\Section12\bin\Debug\net7.0\Section12.pdb
+C:\Users\0908\Documents\LEARN\Section12\Section12\obj\Debug\net7.0\Section12.csproj.AssemblyReference.cache
+C:\Users\0908\Documents\LEARN\Section12\Section12\obj\Debug\net7.0\Section12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0908\Documents\LEARN\Section12\Section12\obj\Debug\net7.0\Section12.AssemblyInfoInputs.cache
+C:\Users\0908\Documents\LEARN\Section12\Section12\obj\Debug\net7.0\Section12.AssemblyInfo.cs
+C:\Users\0908\Documents\LEARN\Section12\Section12\obj\Debug\net7.0\Section12.csproj.CoreCompileInputs.cache
+C:\Users\0908\Documents\LEARN\Section12\Section12\obj\Debug\net7.0\Section12.dll
+C:\Users\0908\Documents\LEARN\Section12\Section12\obj\Debug\net7.0\refint\Section12.dll
+C:\Users\0908\Documents\LEARN\Section12\Section12\obj\Debug\net7.0\Section12.pdb
+C:\Users\0908\Documents\LEARN\Section12\Section12\obj\Debug\net7.0\Section12.genruntimeconfig.cache
+C:\Users\0908\Documents\LEARN\Section12\Section12\obj\Debug\net7.0\ref\Section12.dll

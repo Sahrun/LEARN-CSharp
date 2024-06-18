@@ -1,0 +1,15 @@
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\bin\Debug\net7.0\Chapter 18 Regex Parsing.exe
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\bin\Debug\net7.0\Chapter 18 Regex Parsing.deps.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\bin\Debug\net7.0\Chapter 18 Regex Parsing.runtimeconfig.json
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\bin\Debug\net7.0\Chapter 18 Regex Parsing.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\bin\Debug\net7.0\Chapter 18 Regex Parsing.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\obj\Debug\net7.0\Chapter 18 Regex Parsing.csproj.AssemblyReference.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\obj\Debug\net7.0\Chapter 18 Regex Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\obj\Debug\net7.0\Chapter 18 Regex Parsing.AssemblyInfoInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\obj\Debug\net7.0\Chapter 18 Regex Parsing.AssemblyInfo.cs
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\obj\Debug\net7.0\Chapter 18 Regex Parsing.csproj.CoreCompileInputs.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\obj\Debug\net7.0\Chapter 18 Regex Parsing.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\obj\Debug\net7.0\refint\Chapter 18 Regex Parsing.dll
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\obj\Debug\net7.0\Chapter 18 Regex Parsing.pdb
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\obj\Debug\net7.0\Chapter 18 Regex Parsing.genruntimeconfig.cache
+C:\Users\0908\Documents\LEARN\CSharpNotesForProfessionals\Chapter 18 Regex Parsing\obj\Debug\net7.0\ref\Chapter 18 Regex Parsing.dll

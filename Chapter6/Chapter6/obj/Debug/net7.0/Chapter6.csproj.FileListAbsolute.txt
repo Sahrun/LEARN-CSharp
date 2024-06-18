@@ -1,0 +1,15 @@
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\bin\Debug\net7.0\Chapter6.exe
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\bin\Debug\net7.0\Chapter6.deps.json
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\bin\Debug\net7.0\Chapter6.runtimeconfig.json
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\bin\Debug\net7.0\Chapter6.dll
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\bin\Debug\net7.0\Chapter6.pdb
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\obj\Debug\net7.0\Chapter6.csproj.AssemblyReference.cache
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\obj\Debug\net7.0\Chapter6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\obj\Debug\net7.0\Chapter6.AssemblyInfoInputs.cache
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\obj\Debug\net7.0\Chapter6.AssemblyInfo.cs
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\obj\Debug\net7.0\Chapter6.csproj.CoreCompileInputs.cache
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\obj\Debug\net7.0\Chapter6.dll
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\obj\Debug\net7.0\refint\Chapter6.dll
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\obj\Debug\net7.0\Chapter6.pdb
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\obj\Debug\net7.0\Chapter6.genruntimeconfig.cache
+C:\Users\0908\Documents\LEARN\Chapter6\Chapter6\obj\Debug\net7.0\ref\Chapter6.dll
