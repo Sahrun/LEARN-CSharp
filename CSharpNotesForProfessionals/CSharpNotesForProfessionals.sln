@@ -39,7 +39,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 29 Iterators", "Cha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 30 IEnumerable", "Chapter 30 IEnumerable\Chapter 30 IEnumerable.csproj", "{5791FAC7-783B-4553-B71C-8F7993C099F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 31 Value type vs Reference type", "Chapter 31 Value type vs Reference type\Chapter 31 Value type vs Reference type.csproj", "{858B0843-93DA-43D7-8E0C-FAD0BC80A840}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 31 Value type vs Reference type", "Chapter 31 Value type vs Reference type\Chapter 31 Value type vs Reference type.csproj", "{858B0843-93DA-43D7-8E0C-FAD0BC80A840}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 32 Built-in Types", "Chapter 32 Built-in Types\Chapter 32 Built-in Types.csproj", "{50515CCD-22C2-4CFD-9653-156E4E87995B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 33 Aliases of built-in types", "Chapter 33 Aliases of built-in types\Chapter 33 Aliases of built-in types.csproj", "{A7EBC809-813A-462A-99E8-DAE61CD5B8BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 34 Anonymous types", "Chapter 34 Anonymous types\Chapter 34 Anonymous types.csproj", "{09CA8203-3E32-423B-9760-2A4B4F0AB79E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{858B0843-93DA-43D7-8E0C-FAD0BC80A840}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{858B0843-93DA-43D7-8E0C-FAD0BC80A840}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{858B0843-93DA-43D7-8E0C-FAD0BC80A840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50515CCD-22C2-4CFD-9653-156E4E87995B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50515CCD-22C2-4CFD-9653-156E4E87995B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50515CCD-22C2-4CFD-9653-156E4E87995B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50515CCD-22C2-4CFD-9653-156E4E87995B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7EBC809-813A-462A-99E8-DAE61CD5B8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EBC809-813A-462A-99E8-DAE61CD5B8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EBC809-813A-462A-99E8-DAE61CD5B8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EBC809-813A-462A-99E8-DAE61CD5B8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CA8203-3E32-423B-9760-2A4B4F0AB79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CA8203-3E32-423B-9760-2A4B4F0AB79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CA8203-3E32-423B-9760-2A4B4F0AB79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CA8203-3E32-423B-9760-2A4B4F0AB79E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

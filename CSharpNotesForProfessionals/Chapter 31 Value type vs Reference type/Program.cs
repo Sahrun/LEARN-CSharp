@@ -41,25 +41,59 @@
             Console.WriteLine();
             Console.WriteLine("Section 31.3: ref vs out parameters");
             int a_ = 20;
-            Console.WriteLine("Inside Main - Before Callee: a ={0}", a);
-            Callee(a);
-            Console.WriteLine("Inside Main - After Callee: a = {0}", a);
+            Console.WriteLine("Inside Main - Before Callee: a ={0}", a_);
+            Callee(a_);
+            Console.WriteLine("Inside Main - After Callee: a = {0}", a_);
             Console.WriteLine();
 
-            Console.WriteLine("Inside Main - Before CalleeRef: a ={0}", a);
-            CalleeRef(ref a);
-            Console.WriteLine("Inside Main - After CalleeRe: a = {0}", a);
+            Console.WriteLine("Inside Main - Before CalleeRef: a ={0}", a_);
+            CalleeRef(ref a_);
+            Console.WriteLine("Inside Main - After CalleeRe: a = {0}", a_);
             Console.WriteLine();
 
-            Console.WriteLine("Inside Main - Before CalleeOut: a = {0}", a);
-            CalleeOut(out a);
-            Console.WriteLine("Inside Main - After CalleeOut: a = {0}", a);
-            Console.ReadLine();
+            Console.WriteLine("Inside Main - Before CalleeOut: a = {0}", a_);
+            CalleeOut(out a_);
+            Console.WriteLine("Inside Main - After CalleeOut: a = {0}", a_);
+            //  Console.ReadLine();
+
+            Console.WriteLine();
+            Console.WriteLine("Section 31.4: Assignment");
+
+            var aL = new List<int>();
+            var bL = aL;
+
+            aL.Add(5);
+
+            Console.WriteLine(aL.Count);
+            Console.WriteLine(bL.Count);
+
+            bL.Add(5);
+
+            Console.WriteLine(bL.Count);
+            Console.WriteLine(aL.Count);
+
+
+            Console.WriteLine();
+            Console.WriteLine("Section 31.5: Difference with method parameters ref and out");
+            Console.WriteLine();
+
+            var p = new Program();
+            p.TestOut();
+            p.TestRef();
+
+            Console.WriteLine();
+            Console.WriteLine("Section 31.6: Passing by reference");
+            Console.WriteLine();
+
+            int number = 4;
+            var valid = DoubleNumber(ref number);
+            Console.WriteLine(number);
+
+            valid = DoubleNumberOut(out var outNumber);
+            Console.WriteLine(outNumber);
+
 
         }
-
-   
-
         static void Callee(int a)
         {
             a = 5;
@@ -86,7 +120,59 @@
             }
 
         }
+        public void ByRef(ref int value)
+        {
+            Console.WriteLine(nameof(ByRef) + value);
+            value += 4;
+            Console.WriteLine(nameof(ByRef) + value);
+        }
+
+        public void ByOut(out int value)
+        {
+            //value += 4;
+            //Console.WriteLine(nameof(ByOut) + value);
+            value = 4;
+            Console.WriteLine(nameof(ByOut) + value);
+
+        }
+
+        public void TestOut()
+        {
+            int intValue1;
+            ByOut(out intValue1);
+
+            int intValue2 = 10;
+            ByOut(out intValue2);
+        }
+
+        public void TestRef()
+        {
+            //int intValue1;
+            //ByRef(ref intValue1);
+
+            int intValue2 = 0;
+            ByRef(ref intValue2);
+
+            int intValue3 = 10;
+            ByRef(ref intValue3);
+        }
+        static bool DoubleNumber(ref int number)
+        {
+            number += number;
+
+            return true;
+
+        }
+
+        static bool DoubleNumberOut(out int number)
+        {
+            number = 100;
+
+            return true;
+        }
     }
+
+
 
     public class Student
     {
