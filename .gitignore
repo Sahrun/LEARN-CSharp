@@ -1,70 +1,101 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
 
-/CSharpNotesForProfessionals/Chapter 31 Value type vs Reference type/obj/project.nuget.cache
-/CSharpNotesForProfessionals/Chapter 31 Value type vs Reference type/obj/project.assets.json
-/CSharpNotesForProfessionals/Chapter 30 IEnumerable/obj/Debug/net7.0/Chapter 30 IEnumerable.AssemblyInfo.cs
-/CSharpNotesForProfessionals/.vs/CSharpNotesForProfessionals/v17/.suo
-/CSharpNotesForProfessionals/Chapter 13 String Concatenate/obj/Debug/net7.0/Chapter 13 String Concatenate.AssemblyInfo.cs
-/CSharpNotesForProfessionals/Chapter 13 String Concatenate/obj/Debug/net7.0/Chapter 13 String Concatenate.AssemblyInfoInputs.cache
-/CSharpNotesForProfessionals/Chapter 13 String Concatenate/obj/Debug/net7.0/Chapter 13 String Concatenate.assets.cache
-/CSharpNotesForProfessionals/Chapter 13 String Concatenate/obj/Debug/net7.0/Chapter 13 String Concatenate.GeneratedMSBuildEditorConfig.editorconfig
-/CSharpNotesForProfessionals/Chapter 13 String Concatenate/obj/Chapter 13 String Concatenate.csproj.nuget.dgspec.json
-/CSharpNotesForProfessionals/Chapter 13 String Concatenate/obj/project.assets.json
-/CSharpNotesForProfessionals/Chapter 13 String Concatenate/obj/project.nuget.cache
-*.cs
-/CSharpNotesForProfessionals/Chapter 14 String Manipulation/obj/Debug/net7.0/Chapter 14 String Manipulation.AssemblyInfoInputs.cache
-*.cache
-*.editorconfig
-*.json
-/CSharpNotesForProfessionals/Chapter 15 String Interpolation/obj/Debug/net7.0/Chapter 15 String Interpolation.AssemblyInfo.cs
-/CSharpNotesForProfessionals/Chapter 15 String Interpolation/obj/Debug/net7.0/Chapter 15 String Interpolation.AssemblyInfoInputs.cache
-/CSharpNotesForProfessionals/Chapter 15 String Interpolation/obj/Chapter 15 String Interpolation.csproj.nuget.dgspec.json
-/CSharpNotesForProfessionals/Chapter 15 String Interpolation/obj/project.assets.json
-/CSharpNotesForProfessionals/Chapter 15 String Interpolation/obj/Debug/net7.0/Chapter 15 String Interpolation.assets.cache
-/CSharpNotesForProfessionals/Chapter 15 String Interpolation/obj/Debug/net7.0/Chapter 15 String Interpolation.GeneratedMSBuildEditorConfig.editorconfig
-/CSharpNotesForProfessionals/Chapter 16 String Escape Sequences/obj/Debug/net7.0/Chapter 16 String Escape Sequences.AssemblyInfo.cs
-/CSharpNotesForProfessionals/Chapter 16 String Escape Sequences/obj/Debug/net7.0/Chapter 16 String Escape Sequences.AssemblyInfoInputs.cache
-/CSharpNotesForProfessionals/Chapter 16 String Escape Sequences/obj/Debug/net7.0/Chapter 16 String Escape Sequences.assets.cache
-/CSharpNotesForProfessionals/Chapter 16 String Escape Sequences/obj/Debug/net7.0/Chapter 16 String Escape Sequences.GeneratedMSBuildEditorConfig.editorconfig
-/CSharpNotesForProfessionals/Chapter 16 String Escape Sequences/obj/Chapter 16 String Escape Sequences.csproj.nuget.dgspec.json
-/CSharpNotesForProfessionals/Chapter 16 String Escape Sequences/obj/project.assets.json
-/CSharpNotesForProfessionals/Chapter 16 String Escape Sequences/obj/project.nuget.cache
-/CSharpNotesForProfessionals/Chapter 17 StringBuilder/obj/Debug/net7.0/Chapter 17 StringBuilder.AssemblyInfo.cs
-/CSharpNotesForProfessionals/Chapter 17 StringBuilder/obj/Debug/net7.0/Chapter 17 StringBuilder.AssemblyInfoInputs.cache
-/CSharpNotesForProfessionals/Chapter 17 StringBuilder/obj/Debug/net7.0/Chapter 17 StringBuilder.assets.cache
-/CSharpNotesForProfessionals/Chapter 17 StringBuilder/obj/Debug/net7.0/Chapter 17 StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
-/CSharpNotesForProfessionals/Chapter 17 StringBuilder/obj/Chapter 17 StringBuilder.csproj.nuget.dgspec.json
-/CSharpNotesForProfessionals/Chapter 17 StringBuilder/obj/project.assets.json
-/CSharpNotesForProfessionals/Chapter 17 StringBuilder/obj/project.nuget.cache
-/CSharpNotesForProfessionals/Chapter 18 Regex Parsing/obj/Chapter 18 Regex Parsing.csproj.nuget.dgspec.json
-/CSharpNotesForProfessionals/Chapter 18 Regex Parsing/obj/project.assets.json
-/CSharpNotesForProfessionals/Chapter 18 Regex Parsing/obj/project.nuget.cache
-/CSharpNotesForProfessionals/Chapter 19 DateTime Methods/obj/project.assets.json
-/CSharpNotesForProfessionals/Chapter 19 DateTime Methods/obj/project.nuget.cache
-/CSharpNotesForProfessionals/Chapter 30 IEnumerable/obj/project.assets.json
-/CSharpNotesForProfessionals/Chapter 30 IEnumerable/obj/project.nuget.cache
-/CSharpNotesForProfessionals/Chapter 26 Collection Initializers/obj/project.nuget.cache
-/CSharpNotesForProfessionals/Chapter 26 Collection Initializers/obj/Debug/net7.0/Chapter 26 Collection Initializers.AssemblyInfo.cs
-/CSharpNotesForProfessionals/Chapter 26 Collection Initializers/obj/Debug/net7.0/Chapter 26 Collection Initializers.AssemblyInfoInputs.cache
-/CSharpNotesForProfessionals/Chapter 26 Collection Initializers/obj/Debug/net7.0/Chapter 26 Collection Initializers.assets.cache
-/CSharpNotesForProfessionals/Chapter 26 Collection Initializers/obj/Debug/net7.0/Chapter 26 Collection Initializers.GeneratedMSBuildEditorConfig.editorconfig
-/CSharpNotesForProfessionals/Chapter 26 Collection Initializers/obj/Chapter 26 Collection Initializers.csproj.nuget.dgspec.json
-/CSharpNotesForProfessionals/Chapter 26 Collection Initializers/obj/project.assets.json
-/CSharpNotesForProfessionals/Chapter 24 Guid/obj/project.nuget.cache
-/CSharpNotesForProfessionals/Chapter 24 Guid/obj/project.assets.json
-/CSharpNotesForProfessionals/Chapter 23 Tuples/obj/Chapter 23 Tuples.csproj.nuget.dgspec.json
-/CSharpNotesForProfessionals/Chapter 23 Tuples/obj/Debug/net7.0/Chapter 23 Tuples.AssemblyInfo.cs
-/CSharpNotesForProfessionals/Chapter 23 Tuples/obj/Debug/net7.0/Chapter 23 Tuples.AssemblyInfoInputs.cache
-/CSharpNotesForProfessionals/Chapter 23 Tuples/obj/Debug/net7.0/Chapter 23 Tuples.assets.cache
-/CSharpNotesForProfessionals/Chapter 23 Tuples/obj/Debug/net7.0/Chapter 23 Tuples.GeneratedMSBuildEditorConfig.editorconfig
-/CSharpNotesForProfessionals/Chapter 23 Tuples/obj/project.assets.json
-/CSharpNotesForProfessionals/Chapter 23 Tuples/obj/project.nuget.cache
-/CSharpNotesForProfessionals/Chapter 15 String Interpolation/obj/project.nuget.cache
-/CSharpNotesForProfessionals/.vs/CSharpNotesForProfessionals/FileContentIndex/1a76cbb0-efe2-4b85-be91-f366e92c391f.vsidx
-/CSharpNotesForProfessionals/.vs/CSharpNotesForProfessionals/FileContentIndex/b81b5b87-7c50-40e1-b2f4-df68ccc9ea1c.vsidx
-/CSharpNotesForProfessionals/.vs/CSharpNotesForProfessionals/FileContentIndex/b916efe2-33c7-47d4-b7f3-e544c0a4359d.vsidx
-/CSharpNotesForProfessionals/.vs/CSharpNotesForProfessionals/DesignTimeBuild/.dtbcache.v2
-/CSharpNotesForProfessionals/Chapter 39 Constructors and Finalizers/bin/Debug/net8.0
-/CSharpNotesForProfessionals/Chapter 39 Constructors and Finalizers/obj
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Compiled Python Stuff
+*.pyc
+*.pyo
+
+# Entity Framework Migrations
+Migrations/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcut files
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml

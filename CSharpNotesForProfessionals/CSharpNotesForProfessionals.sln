@@ -43,9 +43,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 31 Value type vs Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 32 Built-in Types", "Chapter 32 Built-in Types\Chapter 32 Built-in Types.csproj", "{50515CCD-22C2-4CFD-9653-156E4E87995B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 33 Aliases of built-in types", "Chapter 33 Aliases of built-in types\Chapter 33 Aliases of built-in types.csproj", "{A7EBC809-813A-462A-99E8-DAE61CD5B8BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 33 Aliases of built-in types", "Chapter 33 Aliases of built-in types\Chapter 33 Aliases of built-in types.csproj", "{A7EBC809-813A-462A-99E8-DAE61CD5B8BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 34 Anonymous types", "Chapter 34 Anonymous types\Chapter 34 Anonymous types.csproj", "{09CA8203-3E32-423B-9760-2A4B4F0AB79E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 34 Anonymous types", "Chapter 34 Anonymous types\Chapter 34 Anonymous types.csproj", "{09CA8203-3E32-423B-9760-2A4B4F0AB79E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 35 Dynamic type", "Chapter 35 Dynamic type\Chapter 35 Dynamic type.csproj", "{6026BF29-9FB7-488D-8E0F-93562C305AD7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 36 Type Conversion", "Chapter 36 Type Conversion\Chapter 36 Type Conversion.csproj", "{43D66B56-E53A-4E04-B2E0-35197852EF20}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 37 Casting", "Chapter 37 Casting\Chapter 37 Casting.csproj", "{F4D7093C-3A16-4891-B0F3-7C6E3923658D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 38 Nullable types", "Chapter 38 Nullable types\Chapter 38 Nullable types.csproj", "{9CD98ADF-DF72-4926-A9BB-D32CFB82720F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 39 Constructors and Finalizers", "Chapter 39 Constructors and Finalizers\Chapter 39 Constructors and Finalizers.csproj", "{6AFADC4F-ADC7-489C-A744-10D2D4C63273}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +151,26 @@ Global
 		{09CA8203-3E32-423B-9760-2A4B4F0AB79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09CA8203-3E32-423B-9760-2A4B4F0AB79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09CA8203-3E32-423B-9760-2A4B4F0AB79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6026BF29-9FB7-488D-8E0F-93562C305AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6026BF29-9FB7-488D-8E0F-93562C305AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6026BF29-9FB7-488D-8E0F-93562C305AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6026BF29-9FB7-488D-8E0F-93562C305AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D66B56-E53A-4E04-B2E0-35197852EF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D66B56-E53A-4E04-B2E0-35197852EF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D66B56-E53A-4E04-B2E0-35197852EF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D66B56-E53A-4E04-B2E0-35197852EF20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4D7093C-3A16-4891-B0F3-7C6E3923658D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D7093C-3A16-4891-B0F3-7C6E3923658D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D7093C-3A16-4891-B0F3-7C6E3923658D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D7093C-3A16-4891-B0F3-7C6E3923658D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD98ADF-DF72-4926-A9BB-D32CFB82720F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD98ADF-DF72-4926-A9BB-D32CFB82720F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD98ADF-DF72-4926-A9BB-D32CFB82720F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD98ADF-DF72-4926-A9BB-D32CFB82720F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AFADC4F-ADC7-489C-A744-10D2D4C63273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFADC4F-ADC7-489C-A744-10D2D4C63273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFADC4F-ADC7-489C-A744-10D2D4C63273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFADC4F-ADC7-489C-A744-10D2D4C63273}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
