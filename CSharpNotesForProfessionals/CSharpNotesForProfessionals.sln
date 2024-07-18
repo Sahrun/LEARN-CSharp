@@ -55,7 +55,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 37 Casting", "Chapt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 38 Nullable types", "Chapter 38 Nullable types\Chapter 38 Nullable types.csproj", "{9CD98ADF-DF72-4926-A9BB-D32CFB82720F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 39 Constructors and Finalizers", "Chapter 39 Constructors and Finalizers\Chapter 39 Constructors and Finalizers.csproj", "{6AFADC4F-ADC7-489C-A744-10D2D4C63273}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 39 Constructors and Finalizers", "Chapter 39 Constructors and Finalizers\Chapter 39 Constructors and Finalizers.csproj", "{6AFADC4F-ADC7-489C-A744-10D2D4C63273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 40 Access Modifiers", "Chapter 40 Access Modifiers\Chapter 40 Access Modifiers.csproj", "{38AE7E7A-A1BA-4240-9C76-7EAE61FCF01B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 40 Access Modifiers_1", "Chapter 40 Access Modifiers_1\Chapter 40 Access Modifiers_1.csproj", "{C5EB65CB-BE01-4C4C-8BB2-0EBC0BF39153}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +175,14 @@ Global
 		{6AFADC4F-ADC7-489C-A744-10D2D4C63273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AFADC4F-ADC7-489C-A744-10D2D4C63273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AFADC4F-ADC7-489C-A744-10D2D4C63273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AE7E7A-A1BA-4240-9C76-7EAE61FCF01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AE7E7A-A1BA-4240-9C76-7EAE61FCF01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AE7E7A-A1BA-4240-9C76-7EAE61FCF01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AE7E7A-A1BA-4240-9C76-7EAE61FCF01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5EB65CB-BE01-4C4C-8BB2-0EBC0BF39153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5EB65CB-BE01-4C4C-8BB2-0EBC0BF39153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5EB65CB-BE01-4C4C-8BB2-0EBC0BF39153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5EB65CB-BE01-4C4C-8BB2-0EBC0BF39153}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

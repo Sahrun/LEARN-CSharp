@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Chapter_40_Access_Modifiers</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Section_40_5_internal.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Section_40_5_internal.cs" />
+  </ItemGroup>
+
+</Project>

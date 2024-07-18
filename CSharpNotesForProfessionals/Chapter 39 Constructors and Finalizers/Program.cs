@@ -66,6 +66,14 @@ Console.WriteLine("Section 39.9: Constructor and Property Initialization");
 var testInstance = new TestClass() { TestProperty = 1 };
 Console.WriteLine(testInstance.TestProperty);
 
+Console.WriteLine();
+Console.WriteLine("Section 39.10: Generic Static Constructors");
+Animal4<Object>.Yawn();
+Animal4<String>.Yawn();
+
+Console.WriteLine();
+Console.WriteLine("Section 39.11: Calling virtual methods in constructor");
+var test = new Derived();
 class Animal
 {
     static Animal()
@@ -196,4 +204,48 @@ public class TestClass
         }
     }
 }
-#endregion 
+#endregion
+
+#region Section 39.10: Generic Static Constructors
+class Animal4<T>
+{
+    static Animal4()
+    {
+        Console.WriteLine(typeof(T).FullName);
+    }
+
+    public static void Yawn() { }
+}
+
+
+#endregion
+
+#region Section 39.11: Calling virtual methods in constructor
+abstract class Base
+{
+    protected Base()
+    {
+        _obj = CreateAnother();
+    }
+
+    protected virtual AnotherBase CreateAnother()
+    {
+        return new AnotherBase();
+    }
+
+    private readonly AnotherBase _obj;
+}
+
+sealed class Derived : Base {
+    public Derived() { }
+
+    protected override AnotherBase CreateAnother()
+    {
+        return new AnotherDerived();
+    }
+}
+
+class AnotherBase { 
+}
+class AnotherDerived : AnotherBase { }
+#endregion
