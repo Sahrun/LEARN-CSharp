@@ -99,3 +99,12 @@ Migrations/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/CSharpNotesForProfessionals/.vs/CSharpNotesForProfessionals/FileContentIndex
+/CSharpNotesForProfessionals/Chapter 13 String Concatenate/bin/Debug/net7.0/Chapter 13 String Concatenate.dll
+/CSharpNotesForProfessionals/Chapter 13 String Concatenate/bin/Debug/net7.0/Chapter 13 String Concatenate.exe
+/CSharpNotesForProfessionals/Chapter 13 String Concatenate/bin/Debug/net7.0/Chapter 13 String Concatenate.pdb
+/CSharpNotesForProfessionals/Chapter 13 String Concatenate/obj/Debug/net7.0/ref/Chapter 13 String Concatenate.dll
+/CSharpNotesForProfessionals/Chapter 13 String Concatenate/obj/Debug/net7.0/refint/Chapter 13 String Concatenate.dll
+*.v2
+/CSharpNotesForProfessionals/Chapter 13 String Concatenate/obj/Debug/net7.0/apphost.exe
+/CSharpNotesForProfessionals/Chapter 13 String Concatenate/obj/Debug/net7.0/Chapter 13 String Concatenate.csproj.CoreCompileInputs.cache
