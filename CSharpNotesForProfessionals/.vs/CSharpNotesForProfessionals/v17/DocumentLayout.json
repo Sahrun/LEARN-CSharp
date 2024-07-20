@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38AE7E7A-A1BA-4240-9C76-7EAE61FCF01B}|Chapter 40 Access Modifiers\\Chapter 40 Access Modifiers.csproj|d:\\learn\\learn csharp\\csharpnotesforprofessionals\\chapter 40 access modifiers\\section_40_6_protected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38AE7E7A-A1BA-4240-9C76-7EAE61FCF01B}|Chapter 40 Access Modifiers\\Chapter 40 Access Modifiers.csproj|solutionrelative:chapter 40 access modifiers\\section_40_6_protected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEB2F2A1-FF95-4136-9D50-6EF9D6AD6903}|Chapter 41 Interfaces\\Chapter 41 Interfaces.csproj|d:\\learn\\learn csharp\\csharpnotesforprofessionals\\chapter 41 interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB2F2A1-FF95-4136-9D50-6EF9D6AD6903}|Chapter 41 Interfaces\\Chapter 41 Interfaces.csproj|solutionrelative:chapter 41 interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB2F2A1-FF95-4136-9D50-6EF9D6AD6903}|Chapter 41 Interfaces\\Chapter 41 Interfaces.csproj|d:\\learn\\learn csharp\\csharpnotesforprofessionals\\chapter 41 interfaces\\section_41_6_why_we_use_interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB2F2A1-FF95-4136-9D50-6EF9D6AD6903}|Chapter 41 Interfaces\\Chapter 41 Interfaces.csproj|solutionrelative:chapter 41 interfaces\\section_41_6_why_we_use_interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,15 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Section_40_6_protected.cs",
-              "DocumentMoniker": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 40 Access Modifiers\\Section_40_6_protected.cs",
-              "RelativeDocumentMoniker": "Chapter 40 Access Modifiers\\Section_40_6_protected.cs",
-              "ToolTip": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 40 Access Modifiers\\Section_40_6_protected.cs",
-              "RelativeToolTip": "Chapter 40 Access Modifiers\\Section_40_6_protected.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Section_41_6_Why_we_use_interfaces.cs",
+              "DocumentMoniker": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 41 Interfaces\\Section_41_6_Why_we_use_interfaces.cs",
+              "RelativeDocumentMoniker": "Chapter 41 Interfaces\\Section_41_6_Why_we_use_interfaces.cs",
+              "ToolTip": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 41 Interfaces\\Section_41_6_Why_we_use_interfaces.cs",
+              "RelativeToolTip": "Chapter 41 Interfaces\\Section_41_6_Why_we_use_interfaces.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:10:19.954Z",
+              "WhenOpened": "2024-07-19T04:00:42.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 41 Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter 41 Interfaces\\Program.cs",
+              "ToolTip": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 41 Interfaces\\Program.cs*",
+              "RelativeToolTip": "Chapter 41 Interfaces\\Program.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAEIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:25:07.435Z",
               "EditorCaption": ""
             }
           ]
