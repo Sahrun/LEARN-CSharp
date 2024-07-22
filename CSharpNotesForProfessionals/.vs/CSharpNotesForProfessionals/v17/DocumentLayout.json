@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEB2F2A1-FF95-4136-9D50-6EF9D6AD6903}|Chapter 41 Interfaces\\Chapter 41 Interfaces.csproj|d:\\learn\\learn csharp\\csharpnotesforprofessionals\\chapter 41 interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEB2F2A1-FF95-4136-9D50-6EF9D6AD6903}|Chapter 41 Interfaces\\Chapter 41 Interfaces.csproj|solutionrelative:chapter 41 interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFDF6F91-3E71-4AA0-86E9-1849DCAB3C2A}|Chapter 42 Static Classes\\Chapter 42 Static Classes.csproj|d:\\learn\\learn csharp\\csharpnotesforprofessionals\\chapter 42 static classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF6F91-3E71-4AA0-86E9-1849DCAB3C2A}|Chapter 42 Static Classes\\Chapter 42 Static Classes.csproj|solutionrelative:chapter 42 static classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEB2F2A1-FF95-4136-9D50-6EF9D6AD6903}|Chapter 41 Interfaces\\Chapter 41 Interfaces.csproj|d:\\learn\\learn csharp\\csharpnotesforprofessionals\\chapter 41 interfaces\\section_41_6_why_we_use_interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEB2F2A1-FF95-4136-9D50-6EF9D6AD6903}|Chapter 41 Interfaces\\Chapter 41 Interfaces.csproj|solutionrelative:chapter 41 interfaces\\section_41_6_why_we_use_interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFDF6F91-3E71-4AA0-86E9-1849DCAB3C2A}|Chapter 42 Static Classes\\Chapter 42 Static Classes.csproj|d:\\learn\\learn csharp\\csharpnotesforprofessionals\\chapter 42 static classes\\section 42.3 static keyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDF6F91-3E71-4AA0-86E9-1849DCAB3C2A}|Chapter 42 Static Classes\\Chapter 42 Static Classes.csproj|solutionrelative:chapter 42 static classes\\section 42.3 static keyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,27 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Section_41_6_Why_we_use_interfaces.cs",
-              "DocumentMoniker": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 41 Interfaces\\Section_41_6_Why_we_use_interfaces.cs",
-              "RelativeDocumentMoniker": "Chapter 41 Interfaces\\Section_41_6_Why_we_use_interfaces.cs",
-              "ToolTip": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 41 Interfaces\\Section_41_6_Why_we_use_interfaces.cs",
-              "RelativeToolTip": "Chapter 41 Interfaces\\Section_41_6_Why_we_use_interfaces.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAAJAAAAAAAAAA==",
+              "Title": "Section 42.3 Static keyword.cs",
+              "DocumentMoniker": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 42 Static Classes\\Section 42.3 Static keyword.cs",
+              "RelativeDocumentMoniker": "Chapter 42 Static Classes\\Section 42.3 Static keyword.cs",
+              "ToolTip": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 42 Static Classes\\Section 42.3 Static keyword.cs",
+              "RelativeToolTip": "Chapter 42 Static Classes\\Section 42.3 Static keyword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T04:00:42.092Z",
+              "WhenOpened": "2024-07-22T03:34:23.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 41 Interfaces\\Program.cs",
-              "RelativeDocumentMoniker": "Chapter 41 Interfaces\\Program.cs",
-              "ToolTip": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 41 Interfaces\\Program.cs*",
-              "RelativeToolTip": "Chapter 41 Interfaces\\Program.cs*",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAEIAAAA6AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 42 Static Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter 42 Static Classes\\Program.cs",
+              "ToolTip": "D:\\LEARN\\LEARN CSharp\\CSharpNotesForProfessionals\\Chapter 42 Static Classes\\Program.cs",
+              "RelativeToolTip": "Chapter 42 Static Classes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T04:25:07.435Z",
+              "WhenOpened": "2024-07-20T16:43:48.996Z",
               "EditorCaption": ""
             }
           ]
