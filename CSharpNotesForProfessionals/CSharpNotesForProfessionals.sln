@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 41 Interfaces", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 42 Static Classes", "Chapter 42 Static Classes\Chapter 42 Static Classes.csproj", "{BFDF6F91-3E71-4AA0-86E9-1849DCAB3C2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 43 Singleton Implementation", "Chapter 43 Singleton Implementation\Chapter 43 Singleton Implementation.csproj", "{22FD0683-EFE4-4100-9D1E-D22ED362F3A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{BFDF6F91-3E71-4AA0-86E9-1849DCAB3C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFDF6F91-3E71-4AA0-86E9-1849DCAB3C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFDF6F91-3E71-4AA0-86E9-1849DCAB3C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FD0683-EFE4-4100-9D1E-D22ED362F3A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FD0683-EFE4-4100-9D1E-D22ED362F3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FD0683-EFE4-4100-9D1E-D22ED362F3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FD0683-EFE4-4100-9D1E-D22ED362F3A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
