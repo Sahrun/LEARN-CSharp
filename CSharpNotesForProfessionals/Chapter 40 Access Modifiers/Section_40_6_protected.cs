@@ -34,7 +34,7 @@ namespace Chapter_40_Access_Modifiers_Section_40_6_protected
     private void someBazmethod()
         {
             var foo = new Foo();
-            foo.SomeFooMethod();
+         //   foo.SomeFooMethod();
 
         }
     }

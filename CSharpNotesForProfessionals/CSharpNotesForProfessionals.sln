@@ -57,15 +57,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 38 Nullable types",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 39 Constructors and Finalizers", "Chapter 39 Constructors and Finalizers\Chapter 39 Constructors and Finalizers.csproj", "{6AFADC4F-ADC7-489C-A744-10D2D4C63273}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 40 Access Modifiers", "Chapter 40 Access Modifiers\Chapter 40 Access Modifiers.csproj", "{38AE7E7A-A1BA-4240-9C76-7EAE61FCF01B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 40 Access Modifiers", "Chapter 40 Access Modifiers\Chapter 40 Access Modifiers.csproj", "{38AE7E7A-A1BA-4240-9C76-7EAE61FCF01B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 40 Access Modifiers_1", "Chapter 40 Access Modifiers_1\Chapter 40 Access Modifiers_1.csproj", "{C5EB65CB-BE01-4C4C-8BB2-0EBC0BF39153}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 40 Access Modifiers_1", "Chapter 40 Access Modifiers_1\Chapter 40 Access Modifiers_1.csproj", "{C5EB65CB-BE01-4C4C-8BB2-0EBC0BF39153}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 41 Interfaces", "Chapter 41 Interfaces\Chapter 41 Interfaces.csproj", "{DEB2F2A1-FF95-4136-9D50-6EF9D6AD6903}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 41 Interfaces", "Chapter 41 Interfaces\Chapter 41 Interfaces.csproj", "{DEB2F2A1-FF95-4136-9D50-6EF9D6AD6903}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 42 Static Classes", "Chapter 42 Static Classes\Chapter 42 Static Classes.csproj", "{BFDF6F91-3E71-4AA0-86E9-1849DCAB3C2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 42 Static Classes", "Chapter 42 Static Classes\Chapter 42 Static Classes.csproj", "{BFDF6F91-3E71-4AA0-86E9-1849DCAB3C2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 43 Singleton Implementation", "Chapter 43 Singleton Implementation\Chapter 43 Singleton Implementation.csproj", "{22FD0683-EFE4-4100-9D1E-D22ED362F3A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 43 Singleton Implementation", "Chapter 43 Singleton Implementation\Chapter 43 Singleton Implementation.csproj", "{22FD0683-EFE4-4100-9D1E-D22ED362F3A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 44 Dependency Injection", "Chapter 44 Dependency Injection\Chapter 44 Dependency Injection.csproj", "{EF734E16-61A0-4A37-851C-BAFA4C2C35D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 45 Partial class and methods", "Chapter 45 Partial class and methods\Chapter 45 Partial class and methods.csproj", "{E07B6DD5-07C2-4938-A1A5-470BFA18CD14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 46 Object initializers", "Chapter 46 Object initializers\Chapter 46 Object initializers.csproj", "{5CD31082-5772-41EB-9F4B-CFB1267FB75F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +207,18 @@ Global
 		{22FD0683-EFE4-4100-9D1E-D22ED362F3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22FD0683-EFE4-4100-9D1E-D22ED362F3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22FD0683-EFE4-4100-9D1E-D22ED362F3A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF734E16-61A0-4A37-851C-BAFA4C2C35D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF734E16-61A0-4A37-851C-BAFA4C2C35D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF734E16-61A0-4A37-851C-BAFA4C2C35D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF734E16-61A0-4A37-851C-BAFA4C2C35D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E07B6DD5-07C2-4938-A1A5-470BFA18CD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07B6DD5-07C2-4938-A1A5-470BFA18CD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07B6DD5-07C2-4938-A1A5-470BFA18CD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07B6DD5-07C2-4938-A1A5-470BFA18CD14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD31082-5772-41EB-9F4B-CFB1267FB75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD31082-5772-41EB-9F4B-CFB1267FB75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD31082-5772-41EB-9F4B-CFB1267FB75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD31082-5772-41EB-9F4B-CFB1267FB75F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

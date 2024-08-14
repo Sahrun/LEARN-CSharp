@@ -1,5 +1,7 @@
 ﻿
 using Chapter_40_Access_Modifiers_protected_internal;
+
+Console.WriteLine("");
 public class Baz : Foo
 {
     void Mymethod1()
@@ -14,9 +16,9 @@ public class Baz : Foo
         Foo foo = new Foo();
         var myPublicProperty = foo.MyPublicProperty;
 
-        var myProtectedInternalProperty = foo.MyprotectedInternalProperty;
+   //     var myProtectedInternalProperty = foo.MyprotectedInternalProperty;
 
-        var myProtectedInternalNestedIntance = new Foo().MyprotectedInternalNestedClass();
+    //    var myProtectedInternalNestedIntance = new Foo().MyprotectedInternalNestedClass();
     }
 
 }
@@ -29,11 +31,11 @@ public class Qux
         Baz baz = new Baz();
 
         var mypublicproperty = baz.MyPublicProperty;
-        var myPublicProtectedInternalproperty = baz.MyprotectedInternalProperty;
+    //    var myPublicProtectedInternalproperty = baz.MyprotectedInternalProperty;
 
 
-        var myProtedtedInternalProperty = Foo.MyprotectedInternalProperty;
-        var myProtectedInternalNestedIntance = new Foo().MyprotectedInternalNestedClass();
+      //  var myProtedtedInternalProperty = Foo.MyprotectedInternalProperty;
+     //   var myProtectedInternalNestedIntance = new Foo().MyprotectedInternalNestedClass();
 
     }
 
@@ -43,9 +45,9 @@ public class Qux
 
         var myPublicProperty = foo.MyPublicProperty;
 
-        var myProtectedInternalproperty = foo.MyProtectedInternalProperty;
+    //    var myProtectedInternalproperty = foo.MyProtectedInternalProperty;
 
-        var myprotectedInternalNestedClass = new Foo.MyProtectedInternalNestedClass();
+    //    var myprotectedInternalNestedClass = new Foo.MyProtectedInternalNestedClass();
     }
 
 }
