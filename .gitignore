@@ -108,3 +108,78 @@ Migrations/
 *.v2
 /CSharpNotesForProfessionals/Chapter 13 String Concatenate/obj/Debug/net7.0/apphost.exe
 /CSharpNotesForProfessionals/Chapter 13 String Concatenate/obj/Debug/net7.0/Chapter 13 String Concatenate.csproj.CoreCompileInputs.cache
+/CSharpNotesForProfessionals/.vs/CSharpNotesForProfessionals/v17/DocumentLayout.json
+*.bin
+*.dll
+*.exe
+CSharpNotesForProfessionals/Chapter 14 String Manipulation/bin/bin/Debug/net7.0/
+/CSharpNotesForProfessionals/Chapter 14 String Manipulation/bin/Debug/net7.0/Chapter 14 String Manipulation.dll
+/CSharpNotesForProfessionals/Chapter 14 String Manipulation/bin/Debug/net7.0/Chapter 14 String Manipulation.pdb
+/CSharpNotesForProfessionals/Chapter 15 String Interpolation/bin/Debug/net7.0/Chapter 15 String Interpolation.dll
+/CSharpNotesForProfessionals/Chapter 15 String Interpolation/bin/Debug/net7.0/Chapter 15 String Interpolation.exe
+/CSharpNotesForProfessionals/Chapter 15 String Interpolation/bin/Debug/net7.0/Chapter 15 String Interpolation.pdb
+/CSharpNotesForProfessionals/Chapter 15 String Interpolation/obj/Debug/net7.0/ref/Chapter 15 String Interpolation.dll
+/CSharpNotesForProfessionals/Chapter 15 String Interpolation/obj/Debug/net7.0/refint/Chapter 15 String Interpolation.dll
+/CSharpNotesForProfessionals/Chapter 16 String Escape Sequences/obj/Debug/net7.0/ref/Chapter 16 String Escape Sequences.dll
+/CSharpNotesForProfessionals/Chapter 16 String Escape Sequences/obj/Debug/net7.0/refint/Chapter 16 String Escape Sequences.dll
+/CSharpNotesForProfessionals/Chapter 17 StringBuilder/bin/Debug/net7.0/Chapter 17 StringBuilder.dll
+/CSharpNotesForProfessionals/Chapter 17 StringBuilder/bin/Debug/net7.0/Chapter 17 StringBuilder.exe
+/CSharpNotesForProfessionals/Chapter 17 StringBuilder/bin/Debug/net7.0/Chapter 17 StringBuilder.pdb
+/CSharpNotesForProfessionals/Chapter 17 StringBuilder/obj/Debug/net7.0/ref/Chapter 17 StringBuilder.dll
+/CSharpNotesForProfessionals/Chapter 18 Regex Parsing/obj/Debug/net7.0/ref/Chapter 18 Regex Parsing.dll
+/CSharpNotesForProfessionals/Chapter 18 Regex Parsing/obj/Debug/net7.0/refint/Chapter 18 Regex Parsing.dll
+/CSharpNotesForProfessionals/Chapter 19 DateTime Methods/bin/Debug/net7.0/Chapter 19 DateTime Methods.dll
+/CSharpNotesForProfessionals/Chapter 19 DateTime Methods/bin/Debug/net7.0/Chapter 19 DateTime Methods.exe
+/CSharpNotesForProfessionals/Chapter 19 DateTime Methods/bin/Debug/net7.0/Chapter 19 DateTime Methods.pdb
+/CSharpNotesForProfessionals/Chapter 19 DateTime Methods/obj/Debug/net7.0/ref/Chapter 19 DateTime Methods.dll
+/CSharpNotesForProfessionals/Chapter 19 DateTime Methods/obj/Debug/net7.0/refint/Chapter 19 DateTime Methods.dll
+/CSharpNotesForProfessionals/Chapter 20 Arrays/obj/Debug/net7.0/ref/Chapter 20 Arrays.dll
+/CSharpNotesForProfessionals/Chapter 20 Arrays/obj/Debug/net7.0/refint/Chapter 20 Arrays.dll
+/CSharpNotesForProfessionals/Chapter 21 O(n) Algorithm for circular/bin/Debug/net7.0/Chapter 21 O(n) Algorithm for circular.dll
+/CSharpNotesForProfessionals/Chapter 21 O(n) Algorithm for circular/bin/Debug/net7.0/Chapter 21 O(n) Algorithm for circular.exe
+/CSharpNotesForProfessionals/Chapter 21 O(n) Algorithm for circular/bin/Debug/net7.0/Chapter 21 O(n) Algorithm for circular.pdb
+/CSharpNotesForProfessionals/Chapter 21 O(n) Algorithm for circular/obj/Debug/net7.0/ref/Chapter 21 O(n) Algorithm for circular.dll
+/CSharpNotesForProfessionals/Chapter 21 O(n) Algorithm for circular/obj/Debug/net7.0/refint/Chapter 21 O(n) Algorithm for circular.dll
+/CSharpNotesForProfessionals/Chapter 22 Enum/obj/Debug/net7.0/ref/Chapter 22 Enum.dll
+/CSharpNotesForProfessionals/Chapter 22 Enum/obj/Debug/net7.0/refint/Chapter 22 Enum.dll
+/CSharpNotesForProfessionals/Chapter 23 Tuples/bin/Debug/net7.0/Chapter 23 Tuples.dll
+/CSharpNotesForProfessionals/Chapter 23 Tuples/bin/Debug/net7.0/Chapter 23 Tuples.exe
+/CSharpNotesForProfessionals/Chapter 23 Tuples/bin/Debug/net7.0/Chapter 23 Tuples.pdb
+/CSharpNotesForProfessionals/Chapter 23 Tuples/obj/Debug/net7.0/ref/Chapter 23 Tuples.dll
+/CSharpNotesForProfessionals/Chapter 24 Guid/bin/Debug/net7.0/Chapter 24 Guid.dll
+/CSharpNotesForProfessionals/Chapter 24 Guid/bin/Debug/net7.0/Chapter 24 Guid.exe
+/CSharpNotesForProfessionals/Chapter 24 Guid/bin/Debug/net7.0/Chapter 24 Guid.pdb
+/CSharpNotesForProfessionals/Chapter 24 Guid/obj/Debug/net7.0/ref/Chapter 24 Guid.dll
+/CSharpNotesForProfessionals/Chapter 24 Guid/obj/Debug/net7.0/refint/Chapter 24 Guid.dll
+/CSharpNotesForProfessionals/Chapter 25 BigInteger/bin/Debug/net7.0/Chapter 25 BigInteger.dll
+/CSharpNotesForProfessionals/Chapter 25 BigInteger/bin/Debug/net7.0/Chapter 25 BigInteger.exe
+/CSharpNotesForProfessionals/Chapter 25 BigInteger/bin/Debug/net7.0/Chapter 25 BigInteger.pdb
+/CSharpNotesForProfessionals/Chapter 25 BigInteger/obj/Debug/net7.0/ref/Chapter 25 BigInteger.dll
+/CSharpNotesForProfessionals/Chapter 25 BigInteger/obj/Debug/net7.0/refint/Chapter 25 BigInteger.dll
+/CSharpNotesForProfessionals/Chapter 26 Collection Initializers/obj/Debug/net7.0/apphost.exe
+/CSharpNotesForProfessionals/Chapter 26 Collection Initializers/obj/Debug/net7.0/Chapter 26 Collection Initializers.csproj.CoreCompileInputs.cache
+/CSharpNotesForProfessionals/Chapter 26 Collection Initializers/obj/Debug/net7.0/Chapter 26 Collection Initializers.csproj.FileListAbsolute.txt
+/CSharpNotesForProfessionals/Chapter 27 An overview of C# collections/obj/Debug/net7.0/ref/Chapter 27 An overview of C# collections.dll
+/CSharpNotesForProfessionals/Chapter 27 An overview of C# collections/obj/Debug/net7.0/refint/Chapter 27 An overview of C# collections.dll
+/CSharpNotesForProfessionals/Chapter 14 String Manipulation/obj/Debug/net7.0/ref/Chapter 14 String Manipulation.dll
+/CSharpNotesForProfessionals/Chapter 14 String Manipulation/obj/Debug/net7.0/refint/Chapter 14 String Manipulation.dll
+/CSharpNotesForProfessionals/Chapter 28 Looping/bin/Debug/net7.0/Chapter 28 Looping.dll
+/CSharpNotesForProfessionals/Chapter 28 Looping/bin/Debug/net7.0/Chapter 28 Looping.exe
+/CSharpNotesForProfessionals/Chapter 28 Looping/bin/Debug/net7.0/Chapter 28 Looping.pdb
+/CSharpNotesForProfessionals/Chapter 28 Looping/obj/Debug/net7.0/ref/Chapter 28 Looping.dll
+/CSharpNotesForProfessionals/Chapter 28 Looping/obj/Debug/net7.0/refint/Chapter 28 Looping.dll
+/CSharpNotesForProfessionals/Chapter 29 Iterators/bin/Debug/net7.0/Chapter 29 Iterators.dll
+/CSharpNotesForProfessionals/Chapter 29 Iterators/bin/Debug/net7.0/Chapter 29 Iterators.exe
+/CSharpNotesForProfessionals/Chapter 29 Iterators/bin/Debug/net7.0/Chapter 29 Iterators.pdb
+/CSharpNotesForProfessionals/Chapter 29 Iterators/obj/Debug/net7.0/ref/Chapter 29 Iterators.dll
+/CSharpNotesForProfessionals/Chapter 29 Iterators/obj/Debug/net7.0/refint/Chapter 29 Iterators.dll
+/CSharpNotesForProfessionals/Chapter 30 IEnumerable/obj/Debug/net7.0/ref/Chapter 30 IEnumerable.dll
+/CSharpNotesForProfessionals/Chapter 30 IEnumerable/obj/Debug/net7.0/refint/Chapter 30 IEnumerable.dll
+/CSharpNotesForProfessionals/Chapter 31 Value type vs Reference type/bin/Debug/net8.0/Chapter 31 Value type vs Reference type.dll
+/CSharpNotesForProfessionals/Chapter 31 Value type vs Reference type/bin/Debug/net8.0/Chapter 31 Value type vs Reference type.exe
+/CSharpNotesForProfessionals/Chapter 31 Value type vs Reference type/bin/Debug/net8.0/Chapter 31 Value type vs Reference type.pdb
+/CSharpNotesForProfessionals/Chapter 31 Value type vs Reference type/obj/Debug/net8.0/ref/Chapter 31 Value type vs Reference type.dll
+/CSharpNotesForProfessionals/Chapter 31 Value type vs Reference type/obj/Debug/net8.0/refint/Chapter 31 Value type vs Reference type.dll
+/CSharpNotesForProfessionals/Chapter 31 Value type vs Reference type/obj/Debug/net8.0/apphost.exe
+/CSharpNotesForProfessionals/Chapter 31 Value type vs Reference type/obj/Debug/net8.0/Chapter 31 Value type vs Reference type.dll
+/CSharpNotesForProfessionals/Chapter 31 Value type vs Reference type/obj/Debug/net8.0/Chapter 31 Value type vs Reference type.pdb
