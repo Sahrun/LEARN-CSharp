@@ -73,7 +73,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 45 Partial class an
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 46 Object initializers", "Chapter 46 Object initializers\Chapter 46 Object initializers.csproj", "{5CD31082-5772-41EB-9F4B-CFB1267FB75F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 47 Methods", "Chapter 47 Methods\Chapter 47 Methods.csproj", "{75BA0C95-513B-4BE4-8353-EEE14ED53C10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter 47 Methods", "Chapter 47 Methods\Chapter 47 Methods.csproj", "{75BA0C95-513B-4BE4-8353-EEE14ED53C10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 48 Extension Methods", "Chapter 48 Extension Methods\Chapter 48 Extension Methods.csproj", "{88D682AF-D719-4112-815A-F2DD2918F061}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{75BA0C95-513B-4BE4-8353-EEE14ED53C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75BA0C95-513B-4BE4-8353-EEE14ED53C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75BA0C95-513B-4BE4-8353-EEE14ED53C10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D682AF-D719-4112-815A-F2DD2918F061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D682AF-D719-4112-815A-F2DD2918F061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D682AF-D719-4112-815A-F2DD2918F061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D682AF-D719-4112-815A-F2DD2918F061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
