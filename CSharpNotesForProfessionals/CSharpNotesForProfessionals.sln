@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 53 Object Oriented 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 54 Recursion", "Chapter 54 Recursion\Chapter 54 Recursion.csproj", "{8973F6E0-19D6-4D3D-895C-B0318966441F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 55 Naming Conventions", "Chapter 55 Naming Conventions\Chapter 55 Naming Conventions.csproj", "{42B632F1-C549-44D8-B947-DB662EF9C23C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{8973F6E0-19D6-4D3D-895C-B0318966441F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8973F6E0-19D6-4D3D-895C-B0318966441F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8973F6E0-19D6-4D3D-895C-B0318966441F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B632F1-C549-44D8-B947-DB662EF9C23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B632F1-C549-44D8-B947-DB662EF9C23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B632F1-C549-44D8-B947-DB662EF9C23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B632F1-C549-44D8-B947-DB662EF9C23C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
