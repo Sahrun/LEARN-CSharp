@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 56 XML Documentatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 57 Comments and regions", "Chapter 57 Comments and regions\Chapter 57 Comments and regions.csproj", "{71C1A175-1E85-452A-82D1-43665221A739}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 58 Inheritance", "Chapter 58 Inheritance\Chapter 58 Inheritance.csproj", "{DD7B7EDA-6149-4D48-8A57-1AB790B67A26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{71C1A175-1E85-452A-82D1-43665221A739}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71C1A175-1E85-452A-82D1-43665221A739}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71C1A175-1E85-452A-82D1-43665221A739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7B7EDA-6149-4D48-8A57-1AB790B67A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7B7EDA-6149-4D48-8A57-1AB790B67A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7B7EDA-6149-4D48-8A57-1AB790B67A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7B7EDA-6149-4D48-8A57-1AB790B67A26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
