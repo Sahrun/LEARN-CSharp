@@ -1,4 +1,5 @@
 ﻿
+using Chapter_59_Generics_Section_59_20;
 using Chapter_59_Generics_Section_59_3;
 using Chapter_59_Generics_Section_59_4;
 
@@ -60,3 +61,6 @@ Console.WriteLine("Section 59.18: Type Parameters (Methods)");
 Console.WriteLine("Section 59.19: Generic type casting");
 
 Console.WriteLine("Section 59.20: Configuration reader with generic type casting");
+var timeOut = ConfigurationReader.GetConfigKeyValue("RequestTimeout", 2000);
+var url = ConfigurationReader.GetConfigKeyValue("URL", "www.someurl.com");
+var enabled = ConfigurationReader.GetConfigKeyValue("IsEnabled", false);
