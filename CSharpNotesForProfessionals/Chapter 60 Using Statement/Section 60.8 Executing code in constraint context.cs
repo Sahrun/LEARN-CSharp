@@ -1,5 +1,4 @@
-﻿using Microsoft.Azure.Management.AppService.Fluent.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Security;

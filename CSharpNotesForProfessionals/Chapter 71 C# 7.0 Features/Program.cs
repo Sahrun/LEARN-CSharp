@@ -1,0 +1,22 @@
+﻿using Chapter_71_C__7._0_Features;
+
+Console.WriteLine("Chapter 71: C# 7.0 Features");
+Console.WriteLine("Section 71.1: Language support for Tuples");
+new Section_71_1();
+Console.WriteLine("Section 71.2: Local functions");
+new Section_71_2();
+Console.WriteLine("Section 71.3: out var declaration");
+new Section_71_3();
+Console.WriteLine("Section 71.4: Pattern Matching");
+new Section_71_4();
+Console.WriteLine("Section 71.5: Digit separators");
+new Section_71_5();
+Console.WriteLine("Section 71.6: Binary literals");
+new Section_71_6();
+Console.WriteLine("Section 71.7: throw expressions");
+new Section_71_7();
+Console.WriteLine("Section 71.8: Extended expression bodied members list");
+new Section_71_8();
+Console.WriteLine("Section 71.9: ref return and ref local");
+new Section_71_9();
+Console.WriteLine("Section 71.10: ValueTask<T>");

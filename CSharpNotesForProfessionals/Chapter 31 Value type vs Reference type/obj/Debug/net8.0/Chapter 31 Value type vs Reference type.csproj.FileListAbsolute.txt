@@ -27,3 +27,16 @@ D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Refer
 D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\Chapter 31 Value type vs Reference type.pdb
 D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\Chapter 31 Value type vs Reference type.genruntimeconfig.cache
 D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\ref\Chapter 31 Value type vs Reference type.dll
+D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\Azure.Core.dll
+D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\Azure.ResourceManager.dll
+D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\Azure.ResourceManager.AppService.dll
+D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\System.ClientModel.dll
+D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\System.Memory.Data.dll
+D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\System.Text.Json.dll
+D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\Chapter 31 Value type vs Reference type.csproj.AssemblyReference.cache
+D:\LEARN\LEARN CSharp\CSharpNotesForProfessionals\Chapter 31 Value type vs Reference type\obj\Debug\net8.0\Chapter .B84BB6D0.Up2Date

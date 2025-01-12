@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FruitBasket xmlns="http://www.fruitauthority.fake">
+  <Fruit>
+    <FruitName>Banana</FruitName>
+    <FruitColor>Brown</FruitColor>
+  </Fruit>
+  <Fruit>
+    <FruitName>Apple</FruitName>
+    <FruitColor>Red</FruitColor>
+  </Fruit>
+</FruitBasket>
